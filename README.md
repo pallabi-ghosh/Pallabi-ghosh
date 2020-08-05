@@ -5,7 +5,7 @@
 
 
 ## I'm a UI/UX Designer, Developer and Traveller!
-- 🔭 I’m currently pursuing my Font-end course from Hack Your Future!
+- 🔭 I’m currently pursuing my Front-end course from Hack Your Future!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking for a JOB and more Freelancing Projects.
 - 🥅 2020 Goals: Learn more and develop my creativity!
