@@ -1,6 +1,8 @@
+# Hi there, I'm Pallabi  👋
+
 <img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/Group.png">
 
-### Hi there, I'm Pallabi Ghosh Das 👋
+
 
 ## I'm a UI/UX Designer, Developer and Traveler!
 - 🔭 I’m currently pursuing my Font-end course from Hack Your Future!
@@ -11,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" width="44px" src="https://postimg.cc/18YHGN54"/>][mywebsite]
+
 [<img align="left" alt="codeSTACKr " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"/>][dribbblesite]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -32,7 +34,7 @@
 
 <img align="left" alt="Pallabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&hide_border=true%22" />
 
-[mywebsite]: http://www.pallabighoshdas.info/
+
 [dribbblesite]: https://dribbble.com/Pallabi_Ghosh_Das
 [twitter]: https://twitter.com/PallabiGhoshDas
 [linkedin]: https://www.linkedin.com/in/contactpallabi/
