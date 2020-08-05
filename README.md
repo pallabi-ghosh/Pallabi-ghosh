@@ -1,6 +1,6 @@
 # Hi there, I'm Pallabi  👋
 
-<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/Group 2.png">
+<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/Group 2 2.png">
 
 
 
