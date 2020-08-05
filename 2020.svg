@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2168px" height="1254px" viewBox="0 0 2168 1254" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>11″ iPad Pro</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="86.865469%" y1="48.7864392%" x2="25.9272414%" y2="54.4185326%" id="linearGradient-1">
+            <stop stop-color="#32C5FF" offset="0%"></stop>
+            <stop stop-color="#D280E9" offset="34.924125%"></stop>
+            <stop stop-color="#F7B500" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="51.9472534%" y1="52.269534%" x2="70.9606614%" y2="55.02583%" id="linearGradient-2">
+            <stop stop-color="#1479A1" offset="0%"></stop>
+            <stop stop-color="#1A9CFF" stop-opacity="0.693919362" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="11″-iPad-Pro" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="2168" height="1254"></rect>
+        <g id="Group" transform="translate(0.000000, 116.000000)">
+            <polygon id="Path-4" fill="url(#linearGradient-1)" points="0 45 1436.18321 622.514899 2033 142.377059 1415.21976 1026"></polygon>
+            <polygon id="Path-4" fill="url(#linearGradient-2)" transform="translate(1109.302727, 488.357281) rotate(-179.000000) translate(-1109.302727, -488.357281) " points="56.7534915 19.1882679 1547.97207 579.387297 2161.85196 136.806813 1529.52706 957.526295"></polygon>
+        </g>
+    </g>
+</svg>

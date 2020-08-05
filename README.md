@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/2020.svg">
+
 ### Hi there, I'm Pallabi Ghosh Das 👋
 
 ## I'm a UI/UX Designer, Developer and Traveler!
