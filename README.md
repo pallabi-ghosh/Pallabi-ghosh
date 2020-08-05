@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/2020.svg">
+<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/Group.svg">
 
 ### Hi there, I'm Pallabi Ghosh Das 👋
 
