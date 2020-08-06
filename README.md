@@ -38,7 +38,7 @@
 <img align="left"  width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sketch/sketch.png" />
 <img align="left"  width="30px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"/>
 <img align="left"  width="30px" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/>
-<img align="left"   width="70px" src="https://i.postimg.cc/FKY350k7/1200x630wa.png"/>
+<img align="left"   width="30px" src="https://img.icons8.com/clouds/100/000000/procreate.png"/>
 <img align="left"  width="30px" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png"/>
 
 
