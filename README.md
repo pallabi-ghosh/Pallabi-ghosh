@@ -1,10 +1,11 @@
 # Hi there, I'm Pallabi  👋
 
 ## I'm a UI/UX Designer, Developer and Traveller!
-- 🔭 I’m currently pursuing my Front-end course from Hack Your Future!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a JOB and more Freelancing Projects.
-- 🥅 2020 Goals: Learn more and develop my creativity!
+- 🤔 Exploring new technologies and developing website, mobiles applications and software solutions and quick hacks.
+- 🎓 I have pursued diploma course from HackYourFuture (Copenhagen) in Fullstack Front-End Development. I have studied HTML,CSS,Javascript,React,NodeJS & Git!
+- 💼 I am working as an intern in Konsus ApS. I am working as an UI designer and Frontend Developer to develop the mobile based application for the company.
+- 🌱 Learning everything related to personal development.
+- 🥅 2021 Goals: Learn more and develop my creativity!
 - ⚡ Fun fact: I love to travel and experiment new things :grin:
 
 ### Connect with me:
