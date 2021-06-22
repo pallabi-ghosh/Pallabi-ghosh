@@ -1,9 +1,5 @@
 # Hi there, I'm Pallabi  👋
 
-<img src="https://raw.githubusercontent.com/Pallabi-ghosh/Pallabi-ghosh/master/Group 2 2.png">
-
-
-
 ## I'm a UI/UX Designer, Developer and Traveller!
 - 🔭 I’m currently pursuing my Front-end course from Hack Your Future!
 - 🌱 I’m currently learning everything 🤣
