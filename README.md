@@ -6,7 +6,7 @@
 - 🎓 I have pursued diploma course from HackYourFuture (Copenhagen) in Fullstack Front-End Development.
 - 💼 Junior Frontend developer at Mover Systems.
 - 🌱 Learning everything related to personal development.
-- 🥅 2021 Goals: Learn more and develop my creativity!
+- 🥅 2022 Goals: Learn more and develop my creativity!
 - 🤝 I take great care in the experience, architecture, and code quality of the things I build!
 - ⚡ Fun fact: I love to travel and experiment new things :grin:
 
