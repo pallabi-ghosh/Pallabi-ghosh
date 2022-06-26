@@ -58,6 +58,6 @@
 
 ## Stats summary📈
 
-<p align="center">
+<p>
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pallabi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="pallabi" />
 </p>
