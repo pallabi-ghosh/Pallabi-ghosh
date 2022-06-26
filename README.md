@@ -1,4 +1,4 @@
-# Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 
 ## I'm a passionate self-taught UI/UX Designer and Full Stack web developer!
@@ -45,7 +45,7 @@
 <br />
 <br />
 
-<img align="left" alt="Pallabi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&hide_border=true%22" />
+
 
 
 [dribbblesite]: https://dribbble.com/Pallabi_Ghosh_Das
