@@ -12,22 +12,26 @@
 
 ### Connect with me:   
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"/>][dribbblesite]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/dribbble.png"/>][dribbblesite]
 [<img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/twitter--v2.png" />][twitter]
 [<img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/linkedin.png" />][linkedin]
 <a href="mailto:pallabighosh3100@gmail.com" target="blank"><img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 
 </br>
 
-### Tech stack:
+### Tech stack and Tools:
 
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="26px" src="https://img.icons8.com/color/35/000000/typescript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Visual-studio-code" width="26px" src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/35/000000/git.png"/> 
+<img align="left" alt="Github" width="26px" src="https://img.icons8.com/color/35/000000/github.png"/> 
 
 <br />
 <br />
@@ -52,3 +56,8 @@
 [linkedin]: https://www.linkedin.com/in/contactpallabi/
 [twitter]: https://twitter.com/PallabiGhoshDas
 
+## Stats summary📈
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pallabi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="pallabi" />
+</p>
