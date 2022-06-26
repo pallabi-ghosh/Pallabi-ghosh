@@ -1,7 +1,7 @@
-# Hey there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi there, I'm [Pallabi Ghosh Das](https://durgeshsamariya.github.io) 👋
 
 
-## I'm a passionate self-taught UI/UX Designer and Full Stack web developer!
+## I'm a passionate self-taught Frontend Developer and UI/UX Designer!
 - 🤔 Exploring new technologies and developing website, mobiles applications and software solutions and quick hacks.
 - 🎓 I have pursued diploma course from HackYourFuture (Copenhagen) in Fullstack Front-End Development.
 - 💼 Junior Frontend developer at Mover Systems.
@@ -10,12 +10,12 @@
 - 🤝 I take great care in the experience, architecture, and code quality of the things I build!
 - ⚡ Fun fact: I love to travel and experiment new things :grin:
 
-### Connect with me:   <img align="right"  width="450px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### Connect with me:   
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dribbble.svg"/>][dribbblesite]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/twitter--v2.png" />][twitter]
+[<img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/linkedin.png" />][linkedin]
+<a href="mailto:pallabighosh3100@gmail.com" target="blank"><img align="left"  width="22px" src="https://img.icons8.com/color/35/000000/gmail.png"/></a>
 
 </br>
 
