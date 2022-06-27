@@ -60,5 +60,5 @@
 
 <p>
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pallabi-ghosh&show_icons=true&locale=en&layout=compact" alt="langs" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&locale=en&layout=compact" alt="langs" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&theme=merko" alt="langs" />
 </p>
