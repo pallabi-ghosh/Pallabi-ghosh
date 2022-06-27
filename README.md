@@ -56,8 +56,9 @@
 [linkedin]: https://www.linkedin.com/in/contactpallabi/
 [twitter]: https://twitter.com/PallabiGhoshDas
 
-## Stats summary📈
+### Stats summary📈
 
 <p>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pallabi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="pallabi" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pallabi-ghosh&show_icons=true&locale=en&layout=compact" alt="langs" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pallabi-ghosh&show_icons=true&locale=en&layout=compact" alt="langs" />
 </p>
