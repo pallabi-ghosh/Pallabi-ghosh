@@ -4,7 +4,7 @@
 ## I'm a passionate, self-taught Frontend Developer and UI/UX Designer ❤️
 - 🤔 Exploring new technologies and developing website, mobiles applications and software solutions and quick hacks.
 - 🎓 I have pursued diploma course from HackYourFuture (Copenhagen) in Fullstack Front-End Development.
-- 💼 Junior Frontend developer at Mover Systems.
+- 💼 Frontend Engineer & UI/UX Designer at A.P. Moller - Maersk.
 - 🌱 Learning everything related to personal development.
 - 🥅 2022 Goals: Learn more and develop my creativity!
 - 🤝 I take great care in the experience, architecture, and code quality of the things I build!
